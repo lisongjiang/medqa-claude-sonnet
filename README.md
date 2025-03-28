@@ -2,6 +2,8 @@
 
 mrzigzag, lsjpku@outlook.com
 
+How to use this API:
+
 ```python
 from openai import OpenAI
 api_key = "xxxxxxxx"
